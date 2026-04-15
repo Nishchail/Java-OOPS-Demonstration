@@ -118,7 +118,7 @@ src/
 ### Import into Eclipse
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/UCSDUnfoldingMaps.git
+git clone https://github.com/Nishchail/Java-OOPS-Demonstration.git
 
 # In Eclipse:
 # File → Import → General → Existing Projects into Workspace → Select root directory
